@@ -1,4 +1,4 @@
-@import url(https://fonts.googleapis.com/css?family=Rokkitt:400,700|Roboto:400,300|Roboto+Mono:400,300);
+@import url(https://fonts.googleapis.com/css?family=Rokkitt:400,700|Roboto:400,300|Roboto+Mono:400,300|PT+Mono:400);
 @import url(http://weloveiconfonts.com/api/?family=entypo);
 
 /* entypo */
@@ -10,7 +10,7 @@ html, body {
     margin: 0;
     padding: 0;
     background-color: #17232F;
-    font-family: 'Roboto Mono', serif;
+    font-family: 'PT Mono', 'Roboto Mono', serif;
     color: #f3f6ff;
 }
 
@@ -26,7 +26,6 @@ html, body {
 }
 
 .social h4 {
-    font-family: Roboto, serif;
     font-size: 30px;
     margin-bottom: 5px;
 }
